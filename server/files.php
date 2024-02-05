@@ -27,7 +27,7 @@ return [
     'home' => 'home',
     'container' => 'contenitore',
     'is-empty' => 'Questa directory sembra essere vuota.',
-    'is-limited' => 'Questa directory è troppo grande per essere visualizzata nel browser, limitando l''output ai primi 250 file.',
+    'is-limited' => 'Questa directory è troppo grande per essere visualizzata nel browser, limitando l\'output ai primi 250 file.',
     'are-upload-click-to-view' => 'file sono in fase di caricamento, clicca per visualizzare',
     'cancel-uploads' => 'Annulla Caricamenti',
     'cancel' => 'Annulla',
