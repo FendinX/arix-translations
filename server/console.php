@@ -2,8 +2,8 @@
 
 return [
     'console' => 'Console',
-    'node-under-maintenance' => 'The node of this server is currently under maintenance and all actions are unavailable.',
-    'running-installation-process' => 'This server is currently running its installation process and most actions are unavailable.',
-    'being-transferred' => 'This server is currently being transferred to another node and all actions are unavailable.',
-    'type-a-command' => 'Type a command...',
+    'node-under-maintenance' => 'Il nodo di questo server è attualmente in manutenzione e tutte le azioni non sono disponibili.',
+    'running-installation-process' => 'Questo server sta attualmente eseguendo il processo di installazione e la maggior parte delle azioni non è disponibile.',
+    'being-transferred' => 'Questo server è attualmente in fase di trasferimento su un altro nodo e tutte le azioni non sono disponibili.',
+    'type-a-command' => 'Digita un comando...',
 ];
