@@ -16,7 +16,7 @@ return [
     'no-databases' => 'Sembra che non ci siano database.',
     'cannot-be-created' => 'Non è possibile creare database per questo server.',
     'confirm-deletion' => 'Conferma eliminazione database',
-    'delete-description-1' => 'L''eliminazione di un database è un''azione permanente, non può essere annullata. Questo eliminerà definitivamente il',
+    'delete-description-1' => 'L\'eliminazione di un database è un''azione permanente, non può essere annullata. Questo eliminerà definitivamente il',
     'delete-description-2' => 'database e rimuoverà tutti i dati associati.',
     'confirm-database-name' => 'Conferma nome database',
     'confirm-database-description' => 'Inserisci il nome del database per confermare l''eliminazione.',
