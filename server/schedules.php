@@ -49,7 +49,7 @@ return [
         
         'name' => 'Nome della pianificazione',
         'name-description' => 'Un identificativo leggibile per questa pianificazione.',
-        'cheatsheet' => 'Mostra Foglio d''inganno',
+        'cheatsheet' => 'Mostra Foglio d\'inganno',
         'cheatsheet-description' => 'Mostra il foglio d\'inganno di cron per alcuni esempi',
         'online-when-online' => 'Solo quando il server è online',
         'online-when-online-description' => 'Esegui questa pianificazione solo quando il server è in uno stato di esecuzione.',
