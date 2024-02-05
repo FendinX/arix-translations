@@ -19,7 +19,7 @@ return [
     'delete-description-1' => 'L\'eliminazione di un database è un\'azione permanente, non può essere annullata. Questo eliminerà definitivamente il',
     'delete-description-2' => 'database e rimuoverà tutti i dati associati.',
     'confirm-database-name' => 'Conferma nome database',
-    'confirm-database-description' => 'Inserisci il nome del database per confermare l''eliminazione.',
+    'confirm-database-description' => 'Inserisci il nome del database per confermare l\'eliminazione.',
     'delete-database' => 'Elimina Database',
     'rotate-password' => 'Ruota Password',
     'database-details' => 'Dettagli del Database',
