@@ -45,12 +45,12 @@ return [
         'title-1' => 'Modifica pianificazione',
         'title-2' => 'Crea nuova pianificazione',
 
-        'description' => 'Il sistema di pianificazione supporta l''uso della sintassi Cronjob per definire quando i compiti dovrebbero iniziare a eseguirsi. Utilizza i campi sopra per specificare quando questi compiti dovrebbero iniziare a eseguirsi.',
+        'description' => 'Il sistema di pianificazione supporta l\'uso della sintassi Cronjob per definire quando i compiti dovrebbero iniziare a eseguirsi. Utilizza i campi sopra per specificare quando questi compiti dovrebbero iniziare a eseguirsi.',
         
         'name' => 'Nome della pianificazione',
         'name-description' => 'Un identificativo leggibile per questa pianificazione.',
         'cheatsheet' => 'Mostra Foglio d''inganno',
-        'cheatsheet-description' => 'Mostra il foglio d''inganno di cron per alcuni esempi',
+        'cheatsheet-description' => 'Mostra il foglio d\'inganno di cron per alcuni esempi',
         'online-when-online' => 'Solo quando il server è online',
         'online-when-online-description' => 'Esegui questa pianificazione solo quando il server è in uno stato di esecuzione.',
         'enabled' => 'Pianificazione abilitata',
