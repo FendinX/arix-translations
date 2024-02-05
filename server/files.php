@@ -20,7 +20,7 @@ return [
     'once-deleted' => 'una volta eliminato.',
     'delete-files' => 'Elimina Files',
     'are-you-sure' => 'Sei sicuro di voler eliminare',
-    'this-is-permanent-action' => 'Questa è un''azione permanente e i file non possono essere recuperati.',
+    'this-is-permanent-action' => 'Questa è un\'azione permanente e i file non possono essere recuperati.',
     'name' => 'nome',
     'size' => 'dimensione',
     'date' => 'data',
